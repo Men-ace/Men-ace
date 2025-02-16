@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shailesh Gharti</h1>
 <h3 align="center">Software Developer</h3>
 
+
 - 📫 How to reach me **chhettrisailesh1@gmail.com/ linkedin- sailesh-chhettri-318426268**
 
 <img src="https://example.com/image.png" alt="Alt text" width="200px">
 
-- ⚡ Fun fact **I love cracking jokes.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
