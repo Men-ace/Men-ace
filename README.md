@@ -4,7 +4,8 @@
 
 - 📫 How to reach me **chhettrisailesh1@gmail.com/ linkedin- sailesh-chhettri-318426268**
 
-<img src="https://example.com/image.png" alt="Alt text" width="200px">
+
+
 
 
 
