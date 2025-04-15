@@ -10,7 +10,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="www.linkedin.com/in/sailesh-chhettri-318426268/">
+<a href="[www.linkedin.com/in/sailesh-chhettri-318426268/](https://www.linkedin.com/in/sailesh-chhettri-318426268/)">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sailesh chhettri" height="30" width="40" />
 </a>
 <h3 align="left">Languages and Tools:</h3>
